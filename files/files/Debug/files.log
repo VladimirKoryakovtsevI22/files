@@ -1,0 +1,2 @@
+﻿  files.cpp
+LINK : fatal error LNK1207: несовместимый формат PDB в "F:\Системное программирование\files\Debug\files.pdb"; удалите и перестройте
